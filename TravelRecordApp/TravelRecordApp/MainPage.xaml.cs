@@ -25,7 +25,7 @@ namespace TravelRecordApp
             }
             else
             {
-
+                Navigation.PushAsync(new HomePage()); // Navigate to Home Page if login is successful
             }
         }
     }
