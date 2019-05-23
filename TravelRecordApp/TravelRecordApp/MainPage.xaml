@@ -5,8 +5,10 @@
              x:Class="TravelRecordApp.MainPage">
 
     <StackLayout VerticalOptions="Center">
-        <Entry/>
-        <Entry/>
+        <Entry Placeholder="Email Address"
+               Keyboard="Email"/>
+        <Entry Placeholder="Password"
+               IsPassword="True"/>
         <Button x:Name="LoginButton" 
                 Text="Log In"
                 Clicked="LoginButton_Clicked"/>
