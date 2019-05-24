@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.UWP\\TravelRecordApp.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.UWP\\TravelRecordApp.UWP.csproj",
       "projectName": "TravelRecordApp.UWP",
-      "projectPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.UWP\\TravelRecordApp.UWP.csproj",
+      "projectPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.UWP\\TravelRecordApp.UWP.csproj",
       "packagesPath": "C:\\Users\\ddass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.UWP\\obj\\",
+      "outputPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj": {
-              "projectPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj"
+            "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj": {
+              "projectPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj"
             }
           }
         }

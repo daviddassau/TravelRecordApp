@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj",
+      "projectUniqueName": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj",
       "projectName": "TravelRecordApp",
-      "projectPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj",
+      "projectPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj",
       "packagesPath": "C:\\Users\\ddass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\obj\\",
+      "outputPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

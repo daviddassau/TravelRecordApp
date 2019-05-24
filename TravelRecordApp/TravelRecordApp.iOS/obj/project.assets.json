@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.iOS\\TravelRecordApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.iOS\\TravelRecordApp.iOS.csproj",
       "projectName": "TravelRecordApp.iOS",
-      "projectPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.iOS\\TravelRecordApp.iOS.csproj",
+      "projectPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.iOS\\TravelRecordApp.iOS.csproj",
       "packagesPath": "C:\\Users\\ddass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj": {
-              "projectPath": "C:\\Users\\ddass\\Desktop\\Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj"
+            "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj": {
+              "projectPath": "C:\\Users\\ddass\\Documents\\GitHub\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj"
             }
           }
         }
